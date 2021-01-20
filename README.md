@@ -1,5 +1,4 @@
 # SciARG
-Corpus and code for argument mining in scientific abstracts in two scientific disciplines. Experiments with BERT-based models and domain adaptation from computational linguistics to biomedicine.
 
 Code and data used in our paper:
 Argumentation mining in scientific literature: From computational linguistics to biomedicine
